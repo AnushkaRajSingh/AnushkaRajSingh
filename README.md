@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Anushka Singh
 
-<!--
-**AnushkaRajSingh/AnushkaRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Human Resource professional** blending people-first thinking with **data-driven decision-making**. With 1.8+ years of experience in **recruitment, HR operations, and analytics**, I bring creative energy and strategic insight into every project I touch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- **HR Tools**: Zoho Recruit, Keka, HRIS Systems  
+- **Analytics**: Power BI, Excel (Advanced), Power Query, DAX  
+- **Business Tools**: Google Workspace, Canva  
+- **Soft Skills**: Communication, Teamwork, Time Management  
+- **Languages**: English, Hindi
+
+---
+
+### 📊 Featured Projects
+
+#### 🔹 HR Analytics Dashboard – Power BI  
+Visualizes attrition, hiring trends, and retention with dynamic filters and KPIs.  
+> `Tools: Power BI | DAX | Power Query`
+
+#### 🔹 Sales Dashboard – Power BI  
+Tracks sales performance using slicers, drill-throughs, and trend analysis.  
+> `Tools: Power BI | Excel | Dynamic Filters`
+
+---
+
+### 🎓 Certifications
+
+- SHRM – Human Resource Payroll (2025)  
+- Business Statistics – Times Pro (2024)  
+- Microsoft Excel – Advanced (2024)
+
+---
+
+### 💡 Current Focus
+
+- Learning SQL and exploring **automation in HR workflows**
+
+---
+
+### 📬 Contact Me
+
+📧 anushkarajsingh28012002@gmail.com  
+📱 +91 9679567308  
+🔗 [LinkedIn](https://www.linkedin.com/in/anushka-singh-746a01223) | [GitHub](https://github.com/AnushkaRajSingh)
