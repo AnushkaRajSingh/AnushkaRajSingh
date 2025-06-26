@@ -16,13 +16,15 @@ A passionate **Human Resource professional** blending people-first thinking with
 
 ### 📊 Featured Projects
 
-#### 🔹 HR Analytics Dashboard – Power BI  
+#### 🔹 [HR Analytics Dashboard – Power BI](https://github.com/AnushkaRajSingh/HR-Analytics-Dashboard-Power-BI-)  
 Visualizes attrition, hiring trends, and retention with dynamic filters and KPIs.  
 > `Tools: Power BI | DAX | Power Query`
+`
 
-#### 🔹 Sales Dashboard – Power BI  
+#### 🔹 [Sales Dashboard – Power BI](https://github.com/AnushkaRajSingh/Madhav-store-analysis)  
 Tracks sales performance using slicers, drill-throughs, and trend analysis.  
 > `Tools: Power BI | Excel | Dynamic Filters`
+
 
 ---
 
