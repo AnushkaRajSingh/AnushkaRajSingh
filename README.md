@@ -42,8 +42,11 @@ Tracks sales performance using slicers, drill-throughs, and trend analysis.
 
 ---
 
-### 📬 Contact Me
+## 🔗 Portfolio & Contact
+- 📁 **Portfolio:** [bit.ly/4njPDpC](https://bit.ly/4njPDpC)  
+- 🔗 **LinkedIn:** [linkedin.com/in/anushka-singh-746a01223](https://www.linkedin.com/in/anushka-singh-746a01223/)  
+- 💌 **Email:** [anushkarajsingh28012002@gmail.com](mailto:anushkarajsingh28012002@gmail.com)  
 
-📧 anushkarajsingh28012002@gmail.com  
-📱 +91 9679567308  
-🔗 [LinkedIn](https://www.linkedin.com/in/anushka-singh-746a01223) | [GitHub](https://github.com/AnushkaRajSingh)
+---
+
+> 🌱 Always learning, always building. Let's connect and create people-first, data-driven workplaces!
